@@ -16,5 +16,6 @@ public class ApplicationMain {
         Object o3 = new Object();
 
         System.out.println("Change #1");
+        System.out.println("Change #2");
     }
 }
