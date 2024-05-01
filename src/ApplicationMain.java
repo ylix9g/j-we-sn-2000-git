@@ -14,5 +14,7 @@ public class ApplicationMain {
         Object o1 = new Object();
         Object o2 = new Object();
         Object o3 = new Object();
+
+        System.out.println("Change #2");
     }
 }
