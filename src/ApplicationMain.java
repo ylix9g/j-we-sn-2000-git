@@ -10,5 +10,9 @@ public class ApplicationMain {
         Sort sort = new InsertionSort();
         sort.sort(array);
         System.out.println(Arrays.toString(array));
+
+        Object o1 = new Object();
+        Object o2 = new Object();
+        Object o3 = new Object();
     }
 }
